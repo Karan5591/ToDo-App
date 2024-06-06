@@ -16,8 +16,9 @@ Setup and Installation
 Prerequisites
 Before you begin, ensure you have the following installed on your local machine:
 
-Node.js (v14 or higher)
-npm package manager
+1.Node.js (v14 or higher)
+
+2. npm package manager
 
 ***************************************************************************************
 
@@ -25,6 +26,7 @@ Getting Started
 1. Clone the repository:
 
 git clone https://github.com/your-username/todo-app.git
+
 cd todo-app
 
 2. Install dependencies:
