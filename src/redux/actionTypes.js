@@ -1,0 +1,10 @@
+export const Add_Todo = "Add_Todo";
+export const Toggle_Todo = "Toggle_Todo";
+export const Filter_Todo = "Filter_Todo";
+export const Remove_Todo = "Remove_Todo";
+export const Mark_Completed_Todo = "Mark_Completed_Todo";
+export const Mark_Incomplete_Todo = "Mark_Incomplete_Todo";
+export const Mark_All_Done = "Mark_All_Done";
+export const Update_Search = "Update_search_Term";
+export const Edit_Todo = "Edit_Todo";
+export const Set_Todo = "Set_Todo";
