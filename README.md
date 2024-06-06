@@ -17,7 +17,7 @@ Prerequisites
 Before you begin, ensure you have the following installed on your local machine:
 
 Node.js (v14 or higher)
-npm or yarn package manager
+npm package manager
 
 ***************************************************************************************
 
